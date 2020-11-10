@@ -1,5 +1,3 @@
-function main (){
-
     var edad = prompt("¿Cuántos años tienes?");
     
     if (edad > 60 ) {
@@ -22,8 +20,3 @@ function main (){
     
         document.write("El número no es válido.");
     }
-
-
-
-}
-
